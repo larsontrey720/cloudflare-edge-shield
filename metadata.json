@@ -1,0 +1,6 @@
+{
+  "name": "Cloudflare Edge Shield",
+  "description": "An interactive full-stack Edge Gateway, Webhook traffic inspector, and direct SQL database dashboard for Cloudflare Workers & D1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
